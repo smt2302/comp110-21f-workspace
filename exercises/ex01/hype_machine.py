@@ -1,5 +1,7 @@
-# TODO: Write docstring here
+"""Ex01 part 1"""
+__author__ = "730389688"
 
-# TODO: Initialize __author__ variable here
-
-# TODO: Implement your program logic here
+user_name: str = input("What is your name? ")
+print("Hello " + user_name + ", thats a cool name.")
+print(user_name + " make sure to go out and sieze the day!")
+print("You are unstoppable " + user_name + "!")
