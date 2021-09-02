@@ -1,4 +1,4 @@
-"""Ex01 part 1"""
+"""Ex01 part 1!"""
 __author__ = "730389688"
 
 user_name: str = input("What is your name? ")
